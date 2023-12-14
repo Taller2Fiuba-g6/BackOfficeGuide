@@ -6,7 +6,7 @@ Deployed at [GitHub Pages](https://taller2fiuba-g6.github.io/backOffice/)
 
 -   Para Ingresar al Backoffice el Usuario debe tener permisos de "Administrador. El mismo solo puede ser otorgado por otro Administrador
 
-![Pantalla de  Login](images/1.png)
+![Pantalla de  Login](1.png)
 
 # Administración de SnapMsgs
 
@@ -20,7 +20,7 @@ Deployed at [GitHub Pages](https://taller2fiuba-g6.github.io/backOffice/)
     -   Texto del SnapMsg.
     -   Imagen Cargada.
 
-![Pantalla Administración SnapMsg](images/2.png)
+![Pantalla Administración SnapMsg](2.png)
 
 # Administracion de Usuarios
 
@@ -36,7 +36,7 @@ Deployed at [GitHub Pages](https://taller2fiuba-g6.github.io/backOffice/)
     -   Foto de Perfil.
     -   Texto e Imagen aportada para Certificación.
 
-![Pantalla Administración de Usaurios](images/3.png)
+![Pantalla Administración de Usaurios](3.png)
 
 # Metrics de Usuarios
 
@@ -49,11 +49,11 @@ Deployed at [GitHub Pages](https://taller2fiuba-g6.github.io/backOffice/)
     -   Logins/Fallidos de Usuarios usando "Identidad Federada"
     -   Usuarios bloquedos por un Administrador durante el Día.
 
-![Pantalla Métricas de Usuario](images/4.png)
+![Pantalla Métricas de Usuario](4.png)
 
 Metrics de Contenido
 
 -   Métricas sumarizadas por día de SnapMsgs publicados
 -   Historico de Hashtagags.
 
-![Pantalla Métricas de Usuario](images/5.png)
+![Pantalla Métricas de Usuario](5.png)
